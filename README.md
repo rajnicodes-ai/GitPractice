@@ -1,1 +1,12 @@
 # Git Practice
+
+MY PROJECT  for learning git and GitHub
+
+
+What I am learning
+
+ Git basics
+Commits and branches
+Pushing code to gitHub
+Working
+ With remote repositories
